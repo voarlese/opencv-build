@@ -3,6 +3,7 @@
 
 # JAVA 取得 OPENCV LIB
 * 下載source code : [opencv release](https://opencv.org/releases/)
+我用4.5.1
 
 * 下載cmake (homebrew)
 * 安裝 ant
@@ -10,7 +11,7 @@
 ## build opencv
 1. 
 ```
-cd opencv-4.1.1
+cd opencv-4.5.1
 cmake -S . -B build
 ```
 會在 build 資料夾下產生build 的檔案
